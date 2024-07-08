@@ -1,0 +1,10 @@
+Jugador,2875
+Jugador,1550
+Jugador,1525
+Jugador,625
+Jugador,225
+Jugador,100
+Jugador,0
+Jugador,0
+Jugador,0
+Jugador,0
